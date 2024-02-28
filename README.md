@@ -1,6 +1,6 @@
 # Circular Progress Bar
 
-This project demonstrates a simple circular progress bar implemented using HTML, CSS, and JavaScript. The progress bar updates dynamically based on the input range value.
+This project demonstrates a simple circular progress bar implemented using HTML, CSS, and JavaScript. The progress bar updates dynamically based on the input range value .
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Circular-Progressbar/assets/59678435/6a118220-eb4f-47ec-af86-a7d71fc67771)
